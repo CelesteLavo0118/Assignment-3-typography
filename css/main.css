@@ -17,10 +17,8 @@ a:hover {
 
 p {
   font-style:italic;
-  font-decoration:line-through;
-  text-aling:left;
   font-size:1.5rem;
-  padding: 30;
+  padding:30;
 }
 
 
