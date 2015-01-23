@@ -1,3 +1,37 @@
 html {
-  background-color:beige;
+  background-color:#dbd6cf;
+}
+
+ol{
+  list-style-type:none;
+  padding:0;
+}
+
+a {
+  color:#713837;
+}
+
+a:hover {
+  color:red;
+}
+
+p {
+  font-style:italic;
+  font-decoration:line-through;
+  text-aling:left;
+  font-size:1.5rem;
+  padding: 30;
+}
+
+
+h1, h2, h3 {
+  font-family: 'Bevan', normal;
+  font-weight: 400;
+  color:#79756f;
+}
+
+header{
+  font-family: 'Bevan', normal;
+  font-weight: 400;
+  color:#79756f;
 }
