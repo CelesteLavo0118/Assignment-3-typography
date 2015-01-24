@@ -7,8 +7,9 @@ ol{
   padding:0;
 }
 
-.ol1 {
-  list-style-type:lower-roman;
+.roman {
+    list-style-type: lower-roman;
+    line-height: 1.5rem;
 }
 
 ul {
